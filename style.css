@@ -1,0 +1,55 @@
+body {
+font-family: Arial, sans-serif;
+font-size: 18px;
+color: #222222;
+background-color: #d9ead3;
+
+background-image: url("minecraft.jpg");
+background-repeat: no-repeat;
+background-position: center top;
+background-size: cover;
+
+
+}
+
+h1 {
+color: #245c2a;
+text-align: center;
+}
+
+h2 {
+color: #39733b;
+}
+
+.main-block {
+width: 80%;
+margin: 30px auto;
+padding: 20px;
+background-color: white;
+border-radius: 10px;
+}
+
+.about-game {
+width: 80%;
+margin: 20px auto;
+padding: 20px;
+background-color: #eef6e9;
+border-radius: 10px;
+}
+
+#conclusion {
+width: 80%;
+margin: 20px auto;
+padding: 20px;
+background-color: #d0e8c8;
+border-radius: 10px;
+}
+
+img {
+display: block;
+width: 500px;
+max-width: 100%;
+margin: 20px auto;
+border: 3px solid #39733b;
+border-radius: 8px;
+}
